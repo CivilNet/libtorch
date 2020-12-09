@@ -1,5 +1,5 @@
 # libtorch
-build libtorch for various platform.
+build libtorch library for various platforms.
 
 一些平台的预编译库我会放到该项目的release页面下。
 
@@ -9,8 +9,10 @@ build libtorch for various platform.
 # Build libtorch for iOS
 
 # Build libtorch static library for x86 Linux.
+请访问：[编译PyTorch静态库](https://zhuanlan.zhihu.com/p/313481517)
 
 # Build libtorch shared library for x86 Linux.
+请参考PyTorch官方。
 
 # Build libtorch static library for ARM Linux.
 
